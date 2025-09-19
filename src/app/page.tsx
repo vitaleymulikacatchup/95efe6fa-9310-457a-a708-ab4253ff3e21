@@ -68,7 +68,7 @@ export default function Home() {
               ]
             }
           ]}
-          onPrivacyClick={() => {}}
+          logoText="BlueWave"
         />
       </div>
     </SiteThemeProvider>
