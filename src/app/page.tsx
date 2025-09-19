@@ -68,7 +68,6 @@ export default function Home() {
               ]
             }
           ]}
-          copyrightText="© 2023 BlueWave Crypto."
           onPrivacyClick={() => {}}
         />
       </div>
