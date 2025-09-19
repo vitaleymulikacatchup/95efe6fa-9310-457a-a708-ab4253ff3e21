@@ -1,4 +1,4 @@
-"use client"
+"use client";
 import { SiteThemeProvider } from '@/components/sections/ThemeProvider';
 import NavbarStyleApple from '@/components/navigation/NavbarStyleApple/NavbarStyleApple';
 import TokenBillboardHero from '@/components/sections/layouts/hero/TokenBillboardHero';
@@ -32,7 +32,7 @@ export default function Home() {
         <TokenBillboardHero
           title="Welcome to BlueWave Crypto"
           subtitle="Your Gateway to Innovative Trading"
-          contractAddress="0x123...
+          contractAddress="0x123..."
           copyButtonText="Copy Address"
           copiedText="Address Copied!"
         />
